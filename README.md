@@ -18,9 +18,9 @@ composer require bramus/router ~1.6
 ### Extract file themes.zip (Extract here..)
 
 ### Test Run
-'''
+```
 http://localhost/rumahsakit
 http://localhost/rumahsakit/add
 http://localhost/rumahsakit/edit/3
 http://localhost/rumahsakit/delete/3
-'''
+```
